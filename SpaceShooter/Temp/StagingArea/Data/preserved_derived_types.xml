@@ -10,13 +10,16 @@
 <type fullname="Done_PlayerController" preserve="all"/>
 <type fullname="Done_RandomRotator" preserve="all"/>
 <type fullname="Done_WeaponController" preserve="all"/>
+<type fullname="BGScroller" preserve="all"/>
 <type fullname="DestroyByBoundary" preserve="all"/>
 <type fullname="DestroyByContact" preserve="all"/>
 <type fullname="NewBehaviourScript" preserve="all"/>
+<type fullname="EvasiveManeuver" preserve="all"/>
 <type fullname="GameController" preserve="all"/>
 <type fullname="Mover" preserve="all"/>
 <type fullname="PlayerController" preserve="all"/>
 <type fullname="RandomRotator" preserve="all"/>
+<type fullname="WeaponController" preserve="all"/>
 <type fullname="Readme" preserve="all"/>
 </assembly>
 <assembly fullname="UnityEngine.UI">
